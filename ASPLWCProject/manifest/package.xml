@@ -32,5 +32,21 @@
         <members>*</members>
         <name>StaticResource</name>
     </types>
+       <types>
+        <members>ASPPermissions</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>ASP</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Welcome</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>Welcome</members>
+        <name>CustomTab</name>
+    </types>
     <version>64.0</version>
 </Package>
