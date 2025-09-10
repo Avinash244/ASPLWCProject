@@ -15,6 +15,12 @@
                 <identifier>flexipage_richText</identifier>
             </componentInstance>
         </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentName>datatableExample</componentName>
+                <identifier>c_datatableExample</identifier>
+            </componentInstance>
+        </itemInstances>
         <name>main</name>
         <type>Region</type>
     </flexiPageRegions>

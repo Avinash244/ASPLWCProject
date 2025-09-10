@@ -46,6 +46,7 @@
     </types>
     <types>
         <members>Welcome</members>
+               <members>Barcode_Scanner</members>
         <name>CustomTab</name>
     </types>
     <version>64.0</version>
